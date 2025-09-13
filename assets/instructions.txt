@@ -1,0 +1,14 @@
+Brain Training CLI — Instructions
+
+- Run the app with: python3 main.py
+- Memory Game:
+  * A number will be displayed for a few seconds.
+  * Type it back correctly to score.
+  * The number length grows each level.
+
+- Reaction Time Game:
+  * Press Enter to start a trial.
+  * Wait for 'GO!' then press Enter as fast as you can.
+  * Average and best reaction times are saved.
+
+- Stats are stored in data/scores.json
